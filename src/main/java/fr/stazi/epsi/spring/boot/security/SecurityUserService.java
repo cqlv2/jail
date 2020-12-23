@@ -16,7 +16,7 @@ import org.springframework.stereotype.Service;
 import fr.stazi.epsi.spring.boot.entity.Right;
 import fr.stazi.epsi.spring.boot.entity.Role;
 import fr.stazi.epsi.spring.boot.entity.User;
-import fr.stazi.epsi.spring.boot.services.UserRepository;
+import fr.stazi.epsi.spring.boot.repository.UserRepository;
 
 
 

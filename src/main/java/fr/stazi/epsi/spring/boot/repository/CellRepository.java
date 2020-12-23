@@ -1,4 +1,4 @@
-package fr.stazi.epsi.spring.boot.services;
+package fr.stazi.epsi.spring.boot.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

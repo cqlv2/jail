@@ -5,6 +5,7 @@ import java.util.List;
 import org.springframework.stereotype.Service;
 
 import fr.stazi.epsi.spring.boot.entity.Cell;
+import fr.stazi.epsi.spring.boot.repository.CellRepository;
 
 @Service
 public class CellService {

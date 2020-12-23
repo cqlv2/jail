@@ -5,7 +5,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.stereotype.Service;
 
 import fr.stazi.epsi.spring.boot.entity.User;
-import fr.stazi.epsi.spring.boot.services.UserRepository;
+import fr.stazi.epsi.spring.boot.repository.UserRepository;
 
 @Service
 public class SecurityMethodsService {
